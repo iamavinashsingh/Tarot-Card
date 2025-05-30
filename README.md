@@ -1,6 +1,9 @@
 # TarotVerse Web Application
 
+<<<<<<< HEAD
 ## Live Demo :- https://tarotcardapp.netlify.app/
+=======
+>>>>>>> afb3a47 (animation done)
 ## Features
 
 - **User Authentication:**  
